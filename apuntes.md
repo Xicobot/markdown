@@ -64,7 +64,7 @@ if [ ! -d "$directorio" ]
 
 ![Goku](https://img2.rtve.es/im/4111731/?w=900)
 
-![Grande andres](adp.png)
+![Tf2](tf2.jpeg)
 
 ```
 ---
